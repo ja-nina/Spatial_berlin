@@ -136,3 +136,5 @@ python download_plz_population.py
 
 📝 **Author**: Your Name  
 📅 **Date**: 2025-12-16
+
+* the zipped spatial db file can be found at: https://drive.google.com/file/d/1OGGfaZlL91rd5co9gMHhC2yBpsTwOpe9/view?usp=drive_link
